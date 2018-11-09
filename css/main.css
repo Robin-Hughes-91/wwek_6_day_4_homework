@@ -1,0 +1,16 @@
+body {
+  font-family: Palatino;
+}
+
+h1, h2 {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+h2 {
+  text-decoration: underline;
+  padding-top: 20px;
+}
+
+label {
+  font-weight: normal;
+}
